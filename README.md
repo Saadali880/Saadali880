@@ -1,27 +1,224 @@
-<!-- ═══════════════════════════════════════════════════════════
-     SAAD ALI — GitHub Profile README
-     https://github.com/Saadali880
-     ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,52:1F6F50,100:D6A85F&height=220&section=header&text=Saad%20Ali&fontSize=58&fontColor=F4F7F3&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Software&descAlignY=60&descSize=17" alt="Saad Ali profile banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2800&pause=850&color=9BF6A6&center=true&vCenter=true&width=760&lines=Building+practical+systems+with+data+and+code;Machine+Learning+Intern+%40+FlyRank;BS+Computer+Science+%40+LGU;Open+to+internships+%E2%80%A2+Lahore+%2F+Remote" alt="Saad Ali introduction" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-9BF6A6?style=for-the-badge&logo=vercel&logoColor=07100A)](https://saadali-portfolio.vercel.app/#projects)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-3007a1333)
+[![Email](https://img.shields.io/badge/EMAIL_ME-D6A85F?style=for-the-badge&logo=gmail&logoColor=07100A)](mailto:saadali45.official@gmail.com)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Saadali880&style=flat-square&color=4BD7AD&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## About me
+
+I am a Computer Science undergraduate at **Lahore Garrison University** and a **Machine Learning Intern at FlyRank**. I build projects to understand ideas deeply—from fraud-detection models and relational databases to compression algorithms and role-based management systems.
+
+I care about clear logic, useful outcomes and continuous improvement. I am currently open to AI/ML and software internships where I can contribute meaningfully, learn from experienced engineers and grow through real engineering work.
+
+<table>
+<tr>
+<td width="50%">
+
+### Current focus
+
+- Practical machine-learning workflows
+- Prompt engineering and agentic AI
+- Data analysis and model evaluation
+- Clean, maintainable software systems
+
+</td>
+<td width="50%">
+
+### Quick profile
+
+- **Based in:** Lahore, Pakistan
+- **Experience:** FlyRank ML Internship
+- **Education:** BS Computer Science
+- **Credentials:** 13 verified certificates
+
+</td>
+</tr>
+</table>
+
+---
+
+## LinkedIn-verified skills
+
+> Only skills listed on my LinkedIn profile are shown here.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saad+Ali+%F0%9F%91%8B;AI+%2F+ML+Developer;Building+Intelligent+Systems;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
+**Languages**
+
+![Python](https://img.shields.io/badge/Python_(Programming_Language)-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI and data**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-9BF6A6?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence_(AI)-4BD7AD?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-D6A85F?style=flat-square)
+
+**Computer science**
+
+![dsa](https://img.shields.io/badge/dsa-26332B?style=flat-square)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming_(OOP)-26332B?style=flat-square)
+![Databases](https://img.shields.io/badge/Databases-26332B?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-26332B?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-26332B?style=flat-square)
+
+**Tools and platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+
+</div>
+
+---
+
+## Selected work
+
+<div align="center">
+
+### [Explore the complete project gallery →](https://saadali-portfolio.vercel.app/#projects)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Credit Card Fraud Detection
+An end-to-end classification pipeline for highly imbalanced transaction data, including resampling and precision, recall and F1 evaluation.
+
+**Focus:** Python · Machine Learning · Data Analysis
+
+[View repository →](https://github.com/Saadali880/credit-card-fraud-detection)
+
+</td>
+<td width="50%" valign="top">
+
+### FlyRank ML Internship
+Hands-on machine-learning notebooks, experiments and practical AI workflows developed during my active internship.
+
+**Focus:** Python · Machine Learning · Prompt Engineering
+
+[View repository →](https://github.com/Saadali880/flyrank-ml-internship-saad)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Hospital Management Database
+A relational database with 15+ tables for patients, appointments, prescriptions, billing and transactional integrity.
+
+**Focus:** SQL · Databases · Problem Solving
+
+[View repository →](https://github.com/Saadali880/hospital-management-database)
+
+</td>
+<td width="50%" valign="top">
+
+### Huffman Compression Algorithm
+Lossless text compression in C++ using a custom min-heap and Huffman tree with prefix-code validation.
+
+**Focus:** C++ · dsa · Problem Solving
+
+[View repository →](https://github.com/Saadali880/huffman-compression-algorithm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Hotel Management System
+A role-based C++ system covering room booking, food ordering, billing and file handling.
+
+**Focus:** C++ · Object-Oriented Programming (OOP)
+
+[Browse repositories →](https://github.com/Saadali880?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### Hospital Management System
+A modular console application for patient records, appointments and core hospital operations.
+
+**Focus:** C++ · Problem Solving
+
+[Browse repositories →](https://github.com/Saadali880?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experience and education
+
+| Timeline | Journey |
+|:--|:--|
+| **2026 — Present** | **Machine Learning Intern · FlyRank AI** — Practical ML workflows, exploratory notebooks, prompt engineering and agentic AI systems. |
+| **Nov 2023 — Present** | **BS Computer Science · Lahore Garrison University** |
+| **Nov 2021 — Jul 2023** | **Intermediate in Computer Science · Punjab Group of Colleges** |
+
+---
+
+## Licenses and certificates
+
+**13 verified credentials** across machine learning, data science and applied AI.
+
+<details>
+<summary><b>View all credentials</b></summary>
+<br/>
+
+- Foundations of AI and Machine Learning — Microsoft
+- Foundations of Machine Learning — Coursera
+- Machine Learning with Python — IBM
+- Exploratory Data Analysis for Machine Learning — IBM
+- Python 101 for Data Science — IBM
+- Introduction to Agent Skills — Anthropic
+- Introduction to Subagents — Anthropic
+- Claude Platform 101 — Anthropic
+- Claude Code 101 — Anthropic
+- Claude Code in Action — Anthropic
+- AI Fluency: Framework & Foundations — Anthropic
+- AI Fluency for Students — Anthropic
+- Claude 101 — Anthropic
+
+[View credentials on LinkedIn →](https://www.linkedin.com/in/saad-ali-3007a1333/details/certifications/)
+
+</details>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saadali880&show_icons=true&hide_border=true&bg_color=0B0F0D&title_color=9BF6A6&text_color=C7D0C9&icon_color=D6A85F&rank_icon=github" alt="Saad Ali GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadali880&layout=compact&hide_border=true&bg_color=0B0F0D&title_color=9BF6A6&text_color=C7D0C9&langs_count=6" alt="Saad Ali most used languages" />
 
 <br/>
 
-**BSCS Student @ Lahore Garrison University**  
-*AI / ML Developer · Python & C++ Engineer · Turning data into intelligent systems*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://saadali-portfolio.vercel.app/#projects)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-3007a1333)
-[![GitHub](https://img.shields.io/badge/GitHub-Saadali880-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadali880)
-[![Location](https://img.shields.io/badge/Location-Lahore%2C_Pakistan-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Lahore)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Saadali880&style=flat-square&color=58A6FF" alt="Profile views"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadali880&hide_border=true&background=0B0F0D&stroke=26332B&ring=9BF6A6&fire=D6A85F&currStreakLabel=9BF6A6&sideLabels=C7D0C9&dates=7E8B82&currStreakNum=F4F7F3&sideNums=F4F7F3" alt="Saad Ali GitHub contribution streak" />
 
 </div>
 
@@ -29,161 +226,16 @@
 
 <div align="center">
 
-### 🌟 Explore My Work
+### Let’s build something useful.
 
-**[→ Open Live Interactive Portfolio](https://saadali-portfolio.vercel.app/#projects)**
+I am open to internships, collaboration and interesting engineering problems.
 
-*Projects in AI/ML · Software Systems · Databases · Algorithms*
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Computer Science undergraduate who builds things to understand them — from fraud detection models and compression algorithms to role-based management systems. My journey has taken me from writing C++ console applications to training ML classifiers and exploring data-driven systems.
-
-I am drawn to **AI / Machine Learning** not just as a subject, but as a craft. Currently looking for an internship where I can contribute meaningfully, learn from experienced engineers, and grow beyond what a classroom can teach.
-
-- 🔭 **Currently** — Building ML pipelines, systems programming projects & a recruiter-focused portfolio
-- 🧠 **Focus** — Machine Learning, Data Analysis, OOP, DSA & Database Design
-- 🌱 **Learning** — Deep Learning foundations, model evaluation & production-ready Python
-- 🚀 **Philosophy** — Write clean code, ship real projects, improve every iteration
-- 💼 **Open to** — AI/ML Internships · Software Engineering Internships · Research Assistanceships
-
----
-
-## 🛠️ Technical Toolbox
-
-<div align="center">
-
-### 💻 Languages
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI & Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-`KNN` · `Naive Bayes` · `K-Means` · `Regression` · `Model Evaluation` · `EDA` · `Class Balancing`
-
-### 🧩 Paradigms & Concepts
-
-`OOP` · `DSA` · `Computer Networks` · `Operating Systems` · `Digital Image Processing` · `Software Testing & QA` · `Database Design`
-
-### ☁️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-> End-to-end work across Machine Learning, Systems Programming, Databases & Algorithms.  
-> Full gallery → [saadali-portfolio.vercel.app/#projects](https://saadali-portfolio.vercel.app/#projects)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore_my_work-9BF6A6?style=for-the-badge&logo=vercel&logoColor=07100A)](https://saadali-portfolio.vercel.app/#projects)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ali-3007a1333)
+[![Email](https://img.shields.io/badge/EMAIL-saadali45.official%40gmail.com-D6A85F?style=for-the-badge&logo=gmail&logoColor=07100A)](mailto:saadali45.official@gmail.com)
 
 <br/>
 
-### 🧠 Machine Learning & Data Science
-
-- 💳 **[Credit Card Fraud Detection](https://github.com/Saadali880/credit-card-fraud-detection)**  
-  Binary classification pipeline on the Kaggle `creditcard.csv` dataset using KNN & Naive Bayes. Handled class imbalance with resampling; evaluated with precision, recall & F1-score.  
-  `Python` · `Scikit-learn` · `Pandas` · `NumPy` · `Jupyter`
-
-- 📊 **[FlyRank ML Internship Work](https://github.com/Saadali880/flyrank-ml-internship-saad)**  
-  Applied ML experimentation & notebook-driven analysis from internship-style practice.  
-  `Python` · `Jupyter` · `Scikit-learn`
-
-<br/>
-
-### 🧮 Algorithms & Systems
-
-- 🗜️ **[Huffman Compression Algorithm](https://github.com/Saadali880/huffman-compression-algorithm)**  
-  Lossless text compression in C++ with a custom min-heap Huffman tree, optimal prefix codes, compression ratio & tree-height metrics.  
-  `C++` · `DSA` · `Heaps` · `Trees`
-
-- 🏨 **[Hotel Management System](https://github.com/Saadali880/hotel-management-system)**  
-  Role-based OOP system (Receptionist & Guest) with room booking, food ordering, billing & file-based persistence.  
-  `C++` · `OOP` · `File Handling`
-
-- 🏥 **[Hospital Management System](https://github.com/Saadali880/hospital-management-system)**  
-  Interactive console app for patient records & appointment booking — modular C++ with clean structure.  
-  `C++` · `Structures` · `Control Flow`
-
-<br/>
-
-### 🗄️ Databases
-
-- 💊 **[Hospital Management Database](https://github.com/Saadali880/hospital-management-database)**  
-  Relational schema with 15+ tables covering patients, appointments, prescriptions & billing. Complex JOINs, subqueries, stored procedures & transactions.  
-  `SQL` · `MS SQL Server` · `Stored Procedures` · `Transactions`
-
-<br/>
-
-### 🌐 Portfolio & Web
-
-- ✨ **[Saad Ali Portfolio](https://github.com/Saadali880/saad-portfolio)**  
-  Modern recruiter-focused portfolio showcasing AI/ML, software, data & algorithm projects.  
-  **Live:** [saadali-portfolio.vercel.app](https://saadali-portfolio.vercel.app/#projects)  
-  `HTML` · `CSS` · `JavaScript` · `Vercel`
-
----
-
-## 🎓 Education
-
-| Institute | Program | Duration |
-|:---|:---|:---|
-| **Lahore Garrison University** | Bachelor of Science in Computer Science | Nov 2023 – Present |
-| **Punjab Group of Colleges** | Intermediate (ICS) | Nov 2021 – July 2023 |
-
----
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saadali880&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Saad's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadali880&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadali880&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-⚡ **Building production-minded ML pipelines, C++ systems & clean database designs**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on AI/ML projects, learning together, or chatting about internships.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saadali--portfolio.vercel.app-000000?style=for-the-badge)](https://saadali-portfolio.vercel.app/#projects)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-saad--ali--3007a1333-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saad-ali-3007a1333)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-@Saadali880-181717?style=for-the-badge)](https://github.com/Saadali880)
-
-<br/>
-
-💡 *"The best way to predict the future is to build it."*
-
-**Code · Learn · Build · Improve · Repeat**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,52:1F6F50,100:D6A85F&height=110&section=footer" alt="" />
 
 </div>
