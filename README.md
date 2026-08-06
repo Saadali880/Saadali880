@@ -209,14 +209,9 @@ A modular console application for patient records, appointments and core hospita
 
 ---
 
-## GitHub activity
+## Contribution streak
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saadali880&show_icons=true&hide_border=true&bg_color=0B0F0D&title_color=9BF6A6&text_color=C7D0C9&icon_color=D6A85F&rank_icon=github" alt="Saad Ali GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadali880&layout=compact&hide_border=true&bg_color=0B0F0D&title_color=9BF6A6&text_color=C7D0C9&langs_count=6" alt="Saad Ali most used languages" />
-
-<br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadali880&hide_border=true&background=0B0F0D&stroke=26332B&ring=9BF6A6&fire=D6A85F&currStreakLabel=9BF6A6&sideLabels=C7D0C9&dates=7E8B82&currStreakNum=F4F7F3&sideNums=F4F7F3" alt="Saad Ali GitHub contribution streak" />
 
