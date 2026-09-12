@@ -180,6 +180,8 @@ A privacy-first Chrome extension for saving, organizing, searching and reusing A
 
 **What it does:** Prompt collections · Search and favorites · One-click insertion · Clipboard fallback · JSON import/export · No backend, API key or runtime dependency
 
+[View PromptVault repository →](https://github.com/Saadali880/PromptVault)
+
 ---
 
 ## Experience and education
