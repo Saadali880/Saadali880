@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,52:1F6F50,100:D6A85F&height=220&section=header&text=Saad%20Ali&fontSize=58&fontColor=F4F7F3&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20Software&descAlignY=60&descSize=17" alt="Saad Ali profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2800&pause=850&color=9BF6A6&center=true&vCenter=true&width=760&lines=Building+practical+systems+with+data+and+code;Machine+Learning+Intern+%40+FlyRank;BS+Computer+Science+%40+LGU;Open+to+internships+%E2%80%A2+Lahore+%2F+Remote" alt="Saad Ali introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&duration=2800&pause=850&color=9BF6A6&center=true&vCenter=true&width=760&lines=Building+practical+systems+with+data+and+code;Completed+ML+Internship+%40+FlyRank;BS+Computer+Science+%40+LGU;Open+to+internships+%E2%80%A2+Lahore+%2F+Remote" alt="Saad Ali introduction" />
 
 <br/>
 
@@ -18,9 +18,16 @@
 
 ---
 
+## Portfolio websites
+
+- **Professional portfolio:** [saadali-portfolio.vercel.app](https://saadali-portfolio.vercel.app/) — recruiter-focused portfolio built with React, Vinext, Vite and Tailwind CSS.
+- **University assignment:** [saad-portfolio-assignment.vercel.app](https://saad-portfolio-assignment.vercel.app/) — responsive portfolio built strictly with HTML, CSS and vanilla JavaScript, with no libraries or frameworks.
+
+---
+
 ## About me
 
-I am a Computer Science undergraduate at **Lahore Garrison University** and a **Machine Learning Intern at FlyRank**. I build projects to understand ideas deeply—from fraud-detection models and relational databases to compression algorithms and role-based management systems.
+I am a Computer Science undergraduate at **Lahore Garrison University** and I have completed a **Machine Learning Internship at FlyRank AI**. I build projects to understand ideas deeply—from fraud-detection models and relational databases to compression algorithms and role-based management systems.
 
 I care about clear logic, useful outcomes and continuous improvement. I am currently open to AI/ML and software internships where I can contribute meaningfully, learn from experienced engineers and grow through real engineering work.
 
@@ -41,9 +48,9 @@ I care about clear logic, useful outcomes and continuous improvement. I am curre
 ### Quick profile
 
 - **Based in:** Lahore, Pakistan
-- **Experience:** FlyRank ML Internship
+- **Experience:** Completed FlyRank ML Internship
 - **Education:** BS Computer Science
-- **Credentials:** 13 verified certificates
+- **Credentials:** 14 verified certificates
 
 </td>
 </tr>
@@ -115,7 +122,7 @@ An end-to-end classification pipeline for highly imbalanced transaction data, in
 <td width="50%" valign="top">
 
 ### FlyRank ML Internship
-Hands-on machine-learning notebooks, experiments and practical AI workflows developed during my active internship.
+Hands-on machine-learning notebooks, experiments and practical AI workflows completed during my FlyRank AI internship.
 
 **Focus:** Python · Machine Learning · Prompt Engineering
 
@@ -171,11 +178,21 @@ A modular console application for patient records, appointments and core hospita
 
 ---
 
+## PromptVault
+
+A privacy-first Chrome extension for saving, organizing, searching and reusing AI prompts. It inserts saved prompts into the focused input, textarea or rich-text field through its popup or right-click menu, while keeping the complete prompt library locally in the browser.
+
+**Built with:** HTML · CSS · Vanilla JavaScript · Chrome Manifest V3 · Chrome Storage, Context Menus, Tabs and Scripting APIs
+
+**What it does:** Prompt collections · Search and favorites · One-click insertion · Clipboard fallback · JSON import/export · No backend, API key or runtime dependency
+
+---
+
 ## Experience and education
 
 | Timeline | Journey |
 |:--|:--|
-| **2026 — Present** | **Machine Learning Intern · FlyRank AI** — Practical ML workflows, exploratory notebooks, prompt engineering and agentic AI systems. |
+| **2026 · Completed** | **Machine Learning Intern · FlyRank AI** — Completed practical ML workflows, exploratory notebooks, prompt engineering and agentic AI systems. [View completion credential on LinkedIn →](https://www.linkedin.com/in/saad-ali-3007a1333/details/certifications/) |
 | **Nov 2023 — Present** | **BS Computer Science · Lahore Garrison University** |
 | **Nov 2021 — Jul 2023** | **Intermediate in Computer Science · Punjab Group of Colleges** |
 
@@ -183,7 +200,7 @@ A modular console application for patient records, appointments and core hospita
 
 ## Licenses and certificates
 
-**13 verified credentials** across machine learning, data science and applied AI.
+**14 verified credentials** across machine learning, data science, applied AI and professional experience.
 
 <details>
 <summary><b>View all credentials</b></summary>
