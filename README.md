@@ -18,12 +18,6 @@
 
 ---
 
-## Portfolio websites
-
-- **Professional portfolio:** [saadali-portfolio.vercel.app](https://saadali-portfolio.vercel.app/) — recruiter-focused portfolio built with React, Vinext, Vite and Tailwind CSS.
-- **University assignment:** [saad-portfolio-assignment.vercel.app](https://saad-portfolio-assignment.vercel.app/) — responsive portfolio built strictly with HTML, CSS and vanilla JavaScript, with no libraries or frameworks.
-
----
 
 ## About me
 
@@ -50,7 +44,7 @@ I care about clear logic, useful outcomes and continuous improvement. I am curre
 - **Based in:** Lahore, Pakistan
 - **Experience:** Completed FlyRank ML Internship
 - **Education:** BS Computer Science
-- **Credentials:** 14 verified certificates
+- **Credentials:** 13 verified certificates
 
 </td>
 </tr>
@@ -192,7 +186,7 @@ A privacy-first Chrome extension for saving, organizing, searching and reusing A
 
 | Timeline | Journey |
 |:--|:--|
-| **2026 · Completed** | **Machine Learning Intern · FlyRank AI** — Completed practical ML workflows, exploratory notebooks, prompt engineering and agentic AI systems. [View completion credential on LinkedIn →](https://www.linkedin.com/in/saad-ali-3007a1333/details/certifications/) |
+| **2026 · Completed** | **Machine Learning Intern · FlyRank AI** — Completed practical ML workflows, exploratory notebooks, prompt engineering and agentic AI systems. |
 | **Nov 2023 — Present** | **BS Computer Science · Lahore Garrison University** |
 | **Nov 2021 — Jul 2023** | **Intermediate in Computer Science · Punjab Group of Colleges** |
 
@@ -200,7 +194,7 @@ A privacy-first Chrome extension for saving, organizing, searching and reusing A
 
 ## Licenses and certificates
 
-**14 verified credentials** across machine learning, data science, applied AI and professional experience.
+**13 verified credentials** across machine learning, data science and applied AI.
 
 <details>
 <summary><b>View all credentials</b></summary>
